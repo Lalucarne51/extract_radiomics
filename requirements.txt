@@ -1,0 +1,4 @@
+SimpleITK==2.1.1  # Pour la manipulation des images médicales
+pyradiomics==3.0.1  # Pour l'extraction des caractéristiques radiomiques
+numpy==1.21.2  # Dépendance pour de nombreuses opérations mathématiques et de traitement d'images
+pandas==1.3.3  # Pour manipuler les données et les fichiers CSV
